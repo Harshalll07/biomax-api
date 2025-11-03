@@ -1,0 +1,40 @@
+[
+  {
+    "category": "Accounts",
+    "question": [
+      "What documents are required to open a savings account?",
+      "Documents needed for savings account",
+      "Which proofs are required for savings account",
+      "Savings account documentation"
+    ],
+    "answer": "To open a savings account, you need PAN Card, Address Proof (Aadhaar/Driving License/Passport), and two passport size photographs. Please visit the nearest branch to complete verification."
+  },
+  {
+    "category": "Loans",
+    "question": [
+      "What is the interest rate for personal loans?",
+      "Personal loan interest rate",
+      "Loan rates personal loan"
+    ],
+    "answer": "Personal loan interest rates start at 9.75% and vary based on credit score and eligibility."
+  },
+  {
+    "category": "ATM / Cards",
+    "question": [
+      "How can I block my ATM card?",
+      "ATM card block",
+      "Lost debit card",
+      "Block debit card urgently"
+    ],
+    "answer": "You can block your ATM/Debit card instantly by calling our 24/7 helpline at 1800-000-000 or through mobile banking > Cards > Block Card."
+  },
+  {
+    "category": "Net Banking",
+    "question": [
+      "How to activate net banking?",
+      "Enable online banking",
+      "Register for net banking"
+    ],
+    "answer": "To activate net banking, visit the official bank website and click on 'New User Registration'. Follow the instructions and verify using your registered mobile number."
+  }
+]
